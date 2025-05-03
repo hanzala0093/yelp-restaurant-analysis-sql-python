@@ -37,7 +37,10 @@ from matplotlib.colors import LinearSegmentedColormap
 from IPython.display import display
 import warnings
 warnings.filterwarnings('ignore')
+```
 
+
+### 📸 Visualizations
 
 ![Image](https://github.com/user-attachments/assets/dce922b3-98a5-4dfd-b320-5551440771aa)
 
